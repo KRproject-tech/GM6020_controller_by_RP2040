@@ -21,7 +21,9 @@ GM6020 controller by XIAO RP2040 via PWM or CAN Bus.
 **Movie**
     
 * PWM
-https://youtu.be/O0H56NH25rc
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O0H56NH25rc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>    
+
     
 * CAN Bus
 
