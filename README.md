@@ -12,3 +12,16 @@ GM6020 controller by XIAO RP2040 via PWM or CAN Bus.
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"  width="60"/>
 <p>
+
+**Wiring**
+    
+ To appear.
+    
+    
+**Movie**
+    
+* PWM
+https://youtu.be/O0H56NH25rc
+    
+* CAN Bus
+
