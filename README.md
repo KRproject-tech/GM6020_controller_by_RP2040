@@ -15,12 +15,12 @@ GM6020 controller by XIAO RP2040 via PWM or CAN Bus.
 
 ## Hardwares
     
- * XIAO RP2040
+ * XIAO RP2040  : Micro Controller (https://akizukidenshi.com/catalog/g/gM-17044/)
  * GM6020
     
  **CAN Bus**
- * MCP2515      : CAN Controller from SPI to CAN Bus.
- * TJA1441AT    : High-speed CAN transceiver.
+ * MCP2515      : CAN Controller from SPI to CAN Bus. (https://akizukidenshi.com/catalog/g/gI-12030/)
+ * TJA1441AT    : High-speed CAN transceiver. (https://akizukidenshi.com/catalog/g/gI-17464/)
     
     
 ## Wiring
