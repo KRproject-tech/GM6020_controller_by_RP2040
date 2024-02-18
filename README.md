@@ -37,3 +37,7 @@ GM6020 controller by XIAO RP2040 via PWM or CAN Bus.
 * CAN Bus
     
 [![](https://img.youtube.com/vi/YfDJlHHAg7c/0.jpg)](https://youtube.com/shorts/YfDJlHHAg7c?feature=share)
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/KRproject-tech/GM6020_controller_by_RP2040.svg?variant=adaptive)](https://starchart.cc/KRproject-tech/GM6020_controller_by_RP2040)
+
