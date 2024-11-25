@@ -1,5 +1,5 @@
 # <p align=center>GM6020_controller_by_RP2040</p>
-GM6020 controller by XIAO RP2040 via PWM or CAN Bus.
+GM6020 controller by [XIAO RP2040](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) via PWM or CAN Bus.
 
 **Communication**
 
